@@ -4,6 +4,7 @@ import xml.etree.ElementTree as ET
 import urllib.request
 import urllib.parse
 import html
+import random
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from telegram import Bot
@@ -13,7 +14,6 @@ TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN')
 TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
-# تغییر اسم فایل برای جلوگیری از تداخل
 DB_FILE = "sent_tweets_ai.txt"
 
 TWITTER_ACCOUNTS = [
@@ -24,6 +24,14 @@ TWITTER_ACCOUNTS = [
     "Uniswap","OntologyNetwork","0xPolygon","TrustWallet",
     "trondao","aave","zodl_co","SkyEcosystem","StellarOrg","Dashpay",
     "Ripple","TheSandboxGame","cosmos"
+]
+
+# لیست سرورهای فعال Nitter برای پشتیبان‌گیری از یکدیگر
+NITTER_INSTANCES = [
+    "https://nitter.poast.org",
+    "https://nitter.privacydev.net",
+    "https://nitter.moomoo.me",
+    "https://nitter.perennialte.ch"
 ]
 
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
@@ -81,12 +89,28 @@ async def analyze_with_gemini(tweet_text, account):
         print(f"Gemini API Error for @{account}: {e}")
         return "IGNORE"
 
+async def fetch_rss_with_retry(account):
+    """تلاش برای دانلود فید با سرورهای مختلف Nitter در صورت خرابی"""
+    # مخلوط کردن سرورها تا درخواست‌ها پخش بشن
+    instances = NITTER_INSTANCES.copy()
+    random.shuffle(instances)
+    
+    for instance in instances:
+        try:
+            nitter_url = f"{instance}/{account}/rss"
+            req = urllib.request.Request(nitter_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+            
+            loop = asyncio.get_running_loop()
+            response_data = await loop.run_in_executor(None, lambda: urllib.request.urlopen(req, timeout=10).read())
+            return response_data, instance
+        except Exception:
+            continue # اگر این سرور خراب بود، برو سراغ بعدی
+            
+    raise Exception("All Nitter instances failed.")
+
 async def check_single_account(account, sent_tweets, today_date):
     try:
-        nitter_url = f"https://nitter.privacydev.net/{account}/rss"
-        req = urllib.request.Request(nitter_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
-        loop = asyncio.get_running_loop()
-        response_data = await loop.run_in_executor(None, lambda: urllib.request.urlopen(req).read())
+        response_data, used_instance = await fetch_rss_with_retry(account)
         
         root = ET.fromstring(response_data)
         items = root.findall('.//item')[:3]
@@ -99,8 +123,17 @@ async def check_single_account(account, sent_tweets, today_date):
             tweet_link = item.find('link').text if item.find('link') is not None else ""
             pub_date_text = item.find('pubDate').text if item.find('pubDate') is not None else ""
             
-            real_tweet_link = tweet_link.replace("nitter.privacydev.net", "x.com")
-            
+            # پاک‌سازی لینک نیتراسکات و تبدیل به لینک اصلی X
+            clean_link = tweet_link
+            for inst in NITTER_INSTANCES:
+                domain = inst.replace("https://", "")
+                if domain in clean_link:
+                    clean_link = clean_link.replace(domain, "x.com")
+                    break
+            if "x.com" not in clean_link:
+                # تبدیل‌های متفرقه احتمالی
+                clean_link = f"https://x.com/{account}/status/" + tweet_link.split('/status/')[-1] if '/status/' in tweet_link else tweet_link
+
             if pub_date_text:
                 try:
                     tweet_datetime = parsedate_to_datetime(pub_date_text)
@@ -109,7 +142,7 @@ async def check_single_account(account, sent_tweets, today_date):
                 except Exception:
                     pass
             
-            if real_tweet_link in sent_tweets:
+            if clean_link in sent_tweets:
                 continue
             
             tweet_text = title
@@ -119,8 +152,8 @@ async def check_single_account(account, sent_tweets, today_date):
             analysis_result = await analyze_with_gemini(tweet_text, account)
             
             if "IGNORE" in analysis_result or len(analysis_result) < 10:
-                save_sent_tweet(real_tweet_link)
-                sent_tweets.add(real_tweet_link)
+                save_sent_tweet(clean_link)
+                sent_tweets.add(clean_link)
                 continue
             
             safe_original_text = html.escape(tweet_text)
@@ -129,24 +162,24 @@ async def check_single_account(account, sent_tweets, today_date):
                 f"🤖 **[نسخه AI] توییت جدید از: @{account}**\n\n"
                 f"{analysis_result}\n\n"
                 f"🇬🇧 **متن انگلیسی:**\n`{safe_original_text}`\n\n"
-                f"🔗 <a href='{real_tweet_link}'>لینک توییت در X</a>"
+                f"🔗 <a href='{clean_link}'>لینک توییت در X</a>"
             )
             
             try:
                 await bot.send_message(chat_id=TELEGRAM_CHAT_ID, text=final_message, parse_mode="HTML")
                 print(f"[+] AI Report sent for @{account} successfully!")
                 
-                save_sent_tweet(real_tweet_link)
-                sent_tweets.add(real_tweet_link)
+                save_sent_tweet(clean_link)
+                sent_tweets.add(clean_link)
                 
             except Exception as tg_err:
                 print(f"Error sending Telegram for @{account}: {tg_err}")
                     
     except Exception as e:
-        print(f"Error checking @{account} via Nitter: {e}")
+        print(f"Error checking @{account}: {e}")
 
 async def main_pipeline():
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Checking Twitter accounts via Nitter & Gemini...")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Checking Twitter accounts via Smart Multi-Nitter & Gemini...")
     sent_tweets = load_sent_tweets()
     today_date = datetime.now(timezone.utc).date()
     
