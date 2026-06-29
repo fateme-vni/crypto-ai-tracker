@@ -83,3 +83,5 @@ http://x.com/StellarOrg/status/2071644687761359202#m
 http://x.com/0xPolygon/status/2071646140257186183#m
 http://x.com/arbitrum/status/2071640859703963830#m
 http://x.com/Mega_Ecosystem/status/2071625258600198346#m
+http://x.com/arbitrum/status/2071687807081349464#m
+http://x.com/trondao/status/2071688020504580358#m
