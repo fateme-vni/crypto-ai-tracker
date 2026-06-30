@@ -99,3 +99,6 @@ http://x.com/arbitrum/status/2071896471147008302#m
 http://x.com/TRON_INC/status/2071783721120985238#m
 http://x.com/centrifuge/status/2071898042865983716#m
 http://x.com/centrifuge/status/2071880856462139753#m
+http://x.com/trondao/status/2071930751080124823#m
+http://x.com/ONTOWallet/status/2071921832882581776#m
+http://x.com/TrustWallet/status/2071921276608803210#m
