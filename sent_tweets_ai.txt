@@ -395,3 +395,11 @@ http://x.com/OntologyNetwork/status/2073004248611143997#m
 http://x.com/OntologyNetwork/status/2073004246308421653#m
 http://x.com/TrustWallet/status/2072990201899553206#m
 http://x.com/TrustWallet/status/2072990198925783181#m
+http://x.com/SkyEcosystem/status/2073010917193744515#m
+http://x.com/KeystoneWallet/status/2073028999945900530#m
+http://x.com/centrifuge/status/2073016984711876615#m
+http://x.com/Plasma/status/2073024632546857436#m
+http://x.com/Plasma/status/2073024630944653775#m
+http://x.com/Plasma/status/2073024628889379226#m
+http://x.com/trondao/status/2073013891706020096#m
+http://x.com/centrifuge/status/2073016972695241104#m
