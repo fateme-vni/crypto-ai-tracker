@@ -485,3 +485,7 @@ http://x.com/TrustWallet/status/2073693373677154560#m
 http://x.com/0xKolten/status/2073735212480016598#m
 http://x.com/bonk_inu/status/2073765356464680990#m
 http://x.com/avax/status/2073771875654664653#m
+http://x.com/Dashpay/status/2073775782976008444#m
+http://x.com/TrustWallet/status/2073783962871161277#m
+http://x.com/opentensor/status/2073771523492524281#m
+http://x.com/avax/status/2073773416658723084#m
