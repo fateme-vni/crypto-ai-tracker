@@ -490,3 +490,4 @@ http://x.com/TrustWallet/status/2073783962871161277#m
 http://x.com/opentensor/status/2073771523492524281#m
 http://x.com/avax/status/2073773416658723084#m
 http://x.com/0xPolygon/status/2073800481126691052#m
+http://x.com/trondao/status/2073841149622489174#m
