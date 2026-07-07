@@ -656,3 +656,6 @@ http://x.com/StellarOrg/status/2074596962918089146#m
 http://x.com/SmartMoneyNick/status/2074559597784805726#m
 http://x.com/arbitrum/status/2074581383771546072#m
 http://x.com/SecretNetwork/status/2074562429523304728#m
+http://x.com/MetaMaskDev/status/2074542608852943201#m
+http://x.com/trondao/status/2074615729748357477#m
+http://x.com/json1444/status/2074603907494343045#m
