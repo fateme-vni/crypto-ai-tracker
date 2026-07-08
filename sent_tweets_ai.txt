@@ -665,3 +665,8 @@ http://x.com/Dashpay/status/2074663649940058398#m
 http://x.com/arbitrum/status/2074692213242511374#m
 http://x.com/TrustWallet/status/2074735275360784778#m
 http://x.com/TrustWallet/status/2074735271275565240#m
+http://x.com/centrifuge/status/2074776161503297759#m
+http://x.com/TrustWallet/status/2074776699179258190#m
+http://x.com/mintscanio/status/2074660772895134082#m
+http://x.com/CurveFinance/status/2074774184064946505#m
+http://x.com/centrifuge/status/2074775693880402260#m
