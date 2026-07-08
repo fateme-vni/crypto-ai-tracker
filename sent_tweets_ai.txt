@@ -663,3 +663,5 @@ http://x.com/arbitrum/status/2074657569189073044#m
 http://x.com/arbitrum/status/2074657566336921823#m
 http://x.com/Dashpay/status/2074663649940058398#m
 http://x.com/arbitrum/status/2074692213242511374#m
+http://x.com/TrustWallet/status/2074735275360784778#m
+http://x.com/TrustWallet/status/2074735271275565240#m
