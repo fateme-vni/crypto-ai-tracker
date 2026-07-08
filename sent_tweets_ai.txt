@@ -659,3 +659,6 @@ http://x.com/SecretNetwork/status/2074562429523304728#m
 http://x.com/MetaMaskDev/status/2074542608852943201#m
 http://x.com/trondao/status/2074615729748357477#m
 http://x.com/json1444/status/2074603907494343045#m
+http://x.com/arbitrum/status/2074657569189073044#m
+http://x.com/arbitrum/status/2074657566336921823#m
+http://x.com/Dashpay/status/2074663649940058398#m
