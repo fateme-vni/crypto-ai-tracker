@@ -674,3 +674,8 @@ http://x.com/ethena/status/2074798184464085140#m
 http://x.com/noir_wallet/status/2074702984437780893#m
 http://x.com/TrustWallet/status/2074806004420628500#m
 http://x.com/ethena/status/2074798171717607896#m
+http://x.com/avax/status/2074843324255728048#m
+http://x.com/arbitrum/status/2074846195571433837#m
+http://x.com/centrifuge/status/2074837973716423020#m
+http://x.com/Ripple/status/2074834485947105359#m
+http://x.com/avax/status/2074843322066325883#m
