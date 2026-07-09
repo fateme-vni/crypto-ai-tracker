@@ -862,3 +862,7 @@ http://x.com/Offchain/status/2075282294248710255#m
 http://x.com/tokenterminal/status/2075251017076113773#m
 http://x.com/Pumpfun/status/2075334234676383831#m
 http://x.com/Uniswap/status/2075335876247179422#m
+http://x.com/CoinMarketCap/status/2075355636452266212#m
+http://x.com/Compound_xyz/status/2075353988820869218#m
+http://x.com/Compound_xyz/status/2075353986648174837#m
+http://x.com/Compound_xyz/status/2075353983812829372#m
