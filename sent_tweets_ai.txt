@@ -860,3 +860,5 @@ http://x.com/RWAFoundation_/status/2075192894302867796#m
 http://x.com/arbitrum/status/2075317268637008148#m
 http://x.com/Offchain/status/2075282294248710255#m
 http://x.com/tokenterminal/status/2075251017076113773#m
+http://x.com/Pumpfun/status/2075334234676383831#m
+http://x.com/Uniswap/status/2075335876247179422#m
