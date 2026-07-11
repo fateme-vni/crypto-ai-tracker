@@ -944,3 +944,5 @@ http://x.com/SamElfa0/status/2075676905744015655#m
 http://x.com/avax/status/2075675816692797571#m
 http://x.com/StellarOrg/status/2075690932154900820#m
 http://x.com/DSAForg/status/2075642793637110122#m
+http://x.com/arbitrum/status/2075787580973494649#m
+http://x.com/trondao/status/2075790454306800025#m
