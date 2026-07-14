@@ -1074,3 +1074,4 @@ http://x.com/CoinMarketCap/status/2076824541167268306#m
 http://x.com/trondao/status/2076868045390430525#m
 http://x.com/TRON_INC/status/2076863675034735015#m
 http://x.com/cosmos/status/2076951192324988935#m
+http://x.com/Bybit_Official/status/2076954859178193121#m
