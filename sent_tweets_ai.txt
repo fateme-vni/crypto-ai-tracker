@@ -1137,3 +1137,17 @@ http://x.com/cosmos/status/2077082425956749732#m
 http://x.com/trondao/status/2077082617929667060#m
 http://x.com/trondao/status/2077079452266197318#m
 http://x.com/CurveFinance/status/2077076021434572815#m
+http://x.com/trondao/status/2077111343866323439#m
+http://x.com/Compound_xyz/status/2077111725414043924#m
+http://x.com/centrifuge/status/2077105097214132256#m
+http://x.com/DenelleDixon/status/2077109357590847592#m
+http://x.com/UniswapBuilders/status/2077105763844047217#m
+http://x.com/ensdomains/status/2077112392211894621#m
+http://x.com/RippleSwell/status/2077084735059407199#m
+http://x.com/TrustWallet/status/2077099020841898347#m
+http://x.com/TrustWallet/status/2077099018371379654#m
+http://x.com/TrustWallet/status/2077099016114799010#m
+http://x.com/aleevisconti/status/2077111693495202239#m
+http://x.com/0xKolten/status/2077109741663178930#m
+http://x.com/aavescan/status/2077098929221472441#m
+http://x.com/arbitrum/status/2077115141867368807#m
