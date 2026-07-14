@@ -1075,3 +1075,14 @@ http://x.com/trondao/status/2076868045390430525#m
 http://x.com/TRON_INC/status/2076863675034735015#m
 http://x.com/cosmos/status/2076951192324988935#m
 http://x.com/Bybit_Official/status/2076954859178193121#m
+http://x.com/centrifuge/status/2076983662667772101#m
+http://x.com/Plasma/status/2077000690715574462#m
+http://x.com/arbitrum/status/2077000491003678777#m
+http://x.com/TrustWallet/status/2076990984471101910#m
+http://x.com/TrustWallet/status/2076990981870670254#m
+http://x.com/TrustWallet/status/2076990979630846310#m
+http://x.com/Mantle_Official/status/2077000761205285318#m
+http://x.com/CurveFinance/status/2076984929989087555#m
+http://x.com/Mantle_Official/status/2077000748026696039#m
+http://x.com/Plasma/status/2077000540685222201#m
+http://x.com/Plasma/status/2077000392324350080#m
