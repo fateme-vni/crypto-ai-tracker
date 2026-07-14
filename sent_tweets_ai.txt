@@ -1071,3 +1071,4 @@ http://x.com/arbitrum/status/2076784338197168256#m
 http://x.com/arbitrum/status/2076784334938267957#m
 http://x.com/CanaryFunds/status/2076777197998948843#m
 http://x.com/CoinMarketCap/status/2076824541167268306#m
+http://x.com/trondao/status/2076868045390430525#m
