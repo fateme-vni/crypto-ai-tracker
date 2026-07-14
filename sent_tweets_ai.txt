@@ -1163,3 +1163,10 @@ http://x.com/opentensor/status/2077139332859904391#m
 http://x.com/Ripple/status/2077143342820016279#m
 http://x.com/AskVenice/status/2077143755019239927#m
 http://x.com/AskVenice/status/2077143752288633326#m
+http://x.com/Zcash/status/2077150354505118014#m
+http://x.com/0xPolygon/status/2077147841986744703#m
+http://x.com/StaniKulechov/status/2077148688971944385#m
+http://x.com/arbitrum/status/2077149507570044978#m
+http://x.com/StaniKulechov/status/2077148996334706801#m
+http://x.com/Pumpfun/status/2077156637832323522#m
+http://x.com/Dashpay/status/2077158143612932512#m
