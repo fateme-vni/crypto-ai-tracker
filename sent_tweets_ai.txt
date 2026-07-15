@@ -1177,3 +1177,10 @@ http://x.com/T3_FCU/status/2077227579950444848#m
 http://x.com/Dashpay/status/2077230272450306342#m
 http://x.com/arbitrum/status/2077260048179339289#m
 http://x.com/tradexyz/status/2077243877032079867#m
+http://x.com/centrifuge/status/2077320801758609451#m
+http://x.com/TrustWallet/status/2077340736140239018#m
+http://x.com/TRON_INC/status/2077225670833483868#m
+http://x.com/cosmos/status/2077341353672052816#m
+http://x.com/centrifuge/status/2077320789163175947#m
+http://x.com/TrustWallet/status/2077340733741093316#m
+http://x.com/centrifuge/status/2077320772985721273#m
