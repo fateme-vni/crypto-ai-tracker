@@ -1340,3 +1340,15 @@ http://x.com/Dashpay/status/2077800636809109633#m
 http://x.com/Dashpay/status/2077792880366682547#m
 http://x.com/NEARProtocol/status/2077768161663857004#m
 http://x.com/Compound_xyz/status/2077797721566810435#m
+http://x.com/Mantle_Official/status/2077817672977596772#m
+http://x.com/AskVenice/status/2077803750186438816#m
+http://x.com/arbitrum/status/2077815520028721380#m
+http://x.com/trondao/status/2077816446466269442#m
+http://x.com/TradingTerminal/status/2077801314117992953#m
+http://x.com/AskVenice/status/2077803748307370067#m
+http://x.com/centrifuge/status/2077802055432102164#m
+http://x.com/centrifuge/status/2077801815299731652#m
+http://x.com/Dashpay/status/2077801407957049355#m
+http://x.com/aave/status/2077821601563685249#m
+http://x.com/aave/status/2077821598199840907#m
+http://x.com/OriginProtocol/status/2077742099517104577#m
