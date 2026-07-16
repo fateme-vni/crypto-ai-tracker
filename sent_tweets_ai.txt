@@ -1362,3 +1362,12 @@ http://x.com/noir_wallet/status/2077786707462914316#m
 http://x.com/arbitrum/status/2077830959307640849#m
 http://x.com/0xKolten/status/2077822075184562480#m
 http://x.com/usealtai/status/2077770479897858219#m
+http://x.com/aave/status/2077845602407195001#m
+http://x.com/tokenterminal/status/2077834912510406884#m
+http://x.com/aave/status/2077845436589580494#m
+http://x.com/SedonaFi/status/2077771266593903043#m
+http://x.com/StellarOrg/status/2077854972243226873#m
+http://x.com/Figure/status/2077778845378187298#m
+http://x.com/Quicknode/status/2077755390008381851#m
+http://x.com/Dashpay/status/2077855241920258245#m
+http://x.com/AIBC_World/status/2077718268844871944#m
