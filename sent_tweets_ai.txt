@@ -1497,3 +1497,7 @@ http://x.com/Dashpay/status/2078842458884956585#m
 http://x.com/TrustWallet/status/2078857391958044678#m
 http://x.com/avax/status/2078849363414253600#m
 http://x.com/opentensor/status/2078858375081627985#m
+http://x.com/Token_Logic/status/2078825437158092915#m
+http://x.com/0xKolten/status/2078876975632986368#m
+http://x.com/BinaryxPlatform/status/2078656416232124645#m
+http://x.com/ChangeNOW_io/status/2078809171219055094#m
