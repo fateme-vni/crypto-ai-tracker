@@ -1486,3 +1486,5 @@ http://x.com/zooko/status/2078561341674295484#m
 http://x.com/arbitrum/status/2078590582662861063#m
 http://x.com/Pumpfun/status/2078586390015594696#m
 http://x.com/jswihart/status/2078616774644576750#m
+http://x.com/Pumpfun/status/2078715257950806301#m
+http://x.com/TrustWallet/status/2078771920980299963#m
