@@ -1767,3 +1767,5 @@ http://x.com/0xKolten/status/2079990590834417857#m
 http://x.com/luigidemeo/status/2079990896968311136#m
 http://x.com/arbitrum/status/2080019957560054177#m
 http://x.com/bittensor/status/2080018123432808517#m
+http://x.com/arbitrum/status/2080042707448447099#m
+http://x.com/CurveFinance/status/2080034231607054744#m
