@@ -1769,3 +1769,10 @@ http://x.com/arbitrum/status/2080019957560054177#m
 http://x.com/bittensor/status/2080018123432808517#m
 http://x.com/arbitrum/status/2080042707448447099#m
 http://x.com/CurveFinance/status/2080034231607054744#m
+http://x.com/avax/status/2080060043337355668#m
+http://x.com/Dashpay/status/2080052205046907170#m
+http://x.com/BitgetWalletX/status/2079869529644286340#m
+http://x.com/ZakuraZcash/status/2079997334654800252#m
+http://x.com/justinkim415/status/2080054366711738670#m
+http://x.com/trondao/status/2080049091250114877#m
+http://x.com/DSAForg/status/2080029727629148206#m
