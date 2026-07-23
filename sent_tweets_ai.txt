@@ -1871,3 +1871,12 @@ http://x.com/StellarOrg/status/2080374946501652706#m
 http://x.com/centrifuge/status/2080359645810729047#m
 http://x.com/StellarOrg/status/2080374934862471217#m
 http://x.com/bonk_inu/status/2080360608390631646#m
+http://x.com/StellarOrg/status/2080374923151958123#m
+http://x.com/Mercuryo_io/status/2080365923135860817#m
+http://x.com/trondao/status/2080380697336803589#m
+http://x.com/StellarOrg/status/2080374911512809776#m
+http://x.com/trondao/status/2080380695675916355#m
+http://x.com/Uniswap/status/2080391327787663831#m
+http://x.com/zodl_app/status/2080365122199928842#m
+http://x.com/Pumpfun/status/2080388904364995002#m
+http://x.com/Dashpay/status/2080384322641461373#m
