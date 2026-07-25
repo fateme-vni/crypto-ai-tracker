@@ -1955,3 +1955,5 @@ http://x.com/arbitrum/status/2080762633381409137#m
 http://x.com/trondao/status/2080760946960511158#m
 http://x.com/trondao/status/2080793321295806610#m
 http://x.com/paulbrigner/status/2080756368269832448#m
+http://x.com/arbitrum/status/2080841870297420223#m
+http://x.com/bonk_inu/status/2080838787240694172#m
