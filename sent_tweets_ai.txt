@@ -2257,3 +2257,10 @@ http://x.com/arbitrum/status/2082582633888846148#m
 http://x.com/arbitrum/status/2082582632148169072#m
 http://x.com/USDT0_to/status/2082536300985659762#m
 http://x.com/bonk_inu/status/2082607496233972118#m
+http://x.com/AskVenice/status/2082644006152843394#m
+http://x.com/Dashpay/status/2082661434106765489#m
+http://x.com/Dashpay/status/2082650575758405838#m
+http://x.com/0xPolygon/status/2082673194931278264#m
+http://x.com/0xPolygon/status/2082673183283683363#m
+http://x.com/bonk_inu/status/2082643222598189449#m
+http://x.com/0xPolygon/status/2082673171552149967#m
