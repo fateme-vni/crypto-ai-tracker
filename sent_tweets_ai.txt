@@ -2420,3 +2420,11 @@ http://x.com/aave/status/2083213610927415541#m
 http://x.com/aave/status/2083213608561844366#m
 http://x.com/TrustWallet/status/2083213958438113736#m
 http://x.com/TrustWallet/status/2083213955732746703#m
+http://x.com/realmotioninc/status/2083059084866257030#m
+http://x.com/centrifuge/status/2083237002720538734#m
+http://x.com/Compound_xyz/status/2083243160483078625#m
+http://x.com/trondao/status/2083251317468979580#m
+http://x.com/SchwabNetwork/status/2083200338253783267#m
+http://x.com/davidgokhshtein/status/2083221952605413617#m
+http://x.com/CurveFinance/status/2083250253600375279#m
+http://x.com/trondao/status/2083234821334045093#m
