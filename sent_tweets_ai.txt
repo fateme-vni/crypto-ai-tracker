@@ -2436,3 +2436,5 @@ http://x.com/ethena/status/2083263683296362960#m
 http://x.com/trondao/status/2083267212857512110#m
 http://x.com/arbitrum/status/2083278315272478914#m
 http://x.com/centrifuge/status/2083265956802089469#m
+http://x.com/AskVenice/status/2083295148218212495#m
+http://x.com/AskVenice/status/2083295146481684575#m
