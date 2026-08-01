@@ -2445,3 +2445,5 @@ http://x.com/AskVenice/status/2083325669518233850#m
 http://x.com/AskVenice/status/2083398109866938625#m
 http://x.com/TrustWallet/status/2083477940033949875#m
 http://x.com/BSCNews/status/2083406114893267097#m
+http://x.com/0xPolygon/status/2083556104055988664#m
+http://x.com/ZingoLabs/status/2083538846831030633#m
