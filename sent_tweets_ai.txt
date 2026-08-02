@@ -2470,3 +2470,5 @@ http://x.com/opentensor/status/2083861237389996092#m
 http://x.com/Zcash/status/2083894328787705975#m
 http://x.com/Schoen_xyz/status/2083724401003135161#m
 http://x.com/TrustWallet/status/2083930828133015989#m
+http://x.com/zodl_app/status/2083977511583506593#m
+http://x.com/redbridge_ZEC/status/2083939018882822558#m
