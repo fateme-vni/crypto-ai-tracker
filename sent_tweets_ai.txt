@@ -2479,3 +2479,12 @@ http://x.com/0xPolygon/status/2084105128463007874#m
 http://x.com/justinsuntron/status/2084125635224711305#m
 http://x.com/ZcashEastAfrica/status/2084163065885425950#m
 http://x.com/Ripple/status/2084187612273582271#m
+http://x.com/centrifuge/status/2084223265116193145#m
+http://x.com/centrifuge/status/2084221182661071186#m
+http://x.com/AskVenice/status/2084217795890315478#m
+http://x.com/AskVenice/status/2084217793814122931#m
+http://x.com/CurveFinance/status/2084244409235787986#m
+http://x.com/CurveFinance/status/2084201727272554979#m
+http://x.com/CurveFinance/status/2084199010718363834#m
+http://x.com/HyperliquidX/status/2084192309185278286#m
+http://x.com/trondao/status/2084218711439986827#m
