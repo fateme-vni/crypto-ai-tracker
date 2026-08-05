@@ -2672,3 +2672,13 @@ http://x.com/arbitrum/status/2084991234465054736#m
 http://x.com/arbitrum/status/2084991232841826718#m
 http://x.com/trondao/status/2084995273273577693#m
 http://x.com/moonpay/status/2084991455198650755#m
+http://x.com/Plasma/status/2085020055809466755#m
+http://x.com/centrifuge/status/2085029830610071572#m
+http://x.com/chainspect_app/status/2085031825995432281#m
+http://x.com/StaniKulechov/status/2085035704619294752#m
+http://x.com/will__mcevoy/status/2085009825692373492#m
+http://x.com/avax/status/2085033276893450579#m
+http://x.com/sealaunch_/status/2085027591417688504#m
+http://x.com/avax/status/2085033278541893792#m
+http://x.com/avax/status/2085013983770398773#m
+http://x.com/NOW_Wallet/status/2085024332992978977#m
