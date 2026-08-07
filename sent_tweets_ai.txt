@@ -2854,3 +2854,7 @@ http://x.com/AskVenice/status/2085848805975445786#m
 http://x.com/AskVenice/status/2085848804406739451#m
 http://x.com/arbitrum/status/2085840072423653864#m
 http://x.com/trondao/status/2085837422114258947#m
+http://x.com/AskVenice/status/2085869536893448389#m
+http://x.com/trondao/status/2085871233003126983#m
+http://x.com/trondao/status/2085871231702851868#m
+http://x.com/trondao/status/2085871229748314163#m
