@@ -2848,3 +2848,5 @@ http://x.com/NotOnBooze/status/2085761207428948382#m
 http://x.com/Compound_xyz/status/2085817112577429719#m
 http://x.com/opentensor/status/2085817112552247421#m
 http://x.com/opentensor/status/2085817100451598509#m
+http://x.com/StellarOrg/status/2085829440911626725#m
+http://x.com/0xPolygon/status/2085826205098406173#m
