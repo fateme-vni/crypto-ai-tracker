@@ -3109,3 +3109,5 @@ http://x.com/Dashpay/status/2087387348052873400#m
 http://x.com/TRON_INC/status/2087357087756292144#m
 http://x.com/SkyEcosystem/status/2087456157006774531#m
 http://x.com/CurveFinance/status/2087464101878333471#m
+http://x.com/trondao/status/2087482268130640230#m
+http://x.com/centrifuge/status/2087480085138018501#m
