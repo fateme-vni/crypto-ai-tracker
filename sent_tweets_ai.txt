@@ -3368,3 +3368,6 @@ http://x.com/StellarOrg/status/2088352062278873591#m
 http://x.com/StellarOrg/status/2088352060886384973#m
 http://x.com/Cointelegraph/status/2088337505913364554#m
 http://x.com/chainspect_app/status/2088233215236391077#m
+http://x.com/arbitrum/status/2088387772998398136#m
+http://x.com/trondao/status/2088379451587346940#m
+http://x.com/Dashpay/status/2088376119862976897#m
