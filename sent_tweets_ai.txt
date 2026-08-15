@@ -3380,3 +3380,5 @@ http://x.com/StellarOrg/status/2088625394660311056#m
 http://x.com/Dashpay/status/2088632358991712470#m
 http://x.com/TrustWallet/status/2088641873703297392#m
 http://x.com/THORChain/status/2088627129617674592#m
+http://x.com/trondao/status/2088675697506099266#m
+http://x.com/Dashpay/status/2088680554782695880#m
