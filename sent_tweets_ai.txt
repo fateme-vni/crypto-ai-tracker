@@ -3382,3 +3382,5 @@ http://x.com/TrustWallet/status/2088641873703297392#m
 http://x.com/THORChain/status/2088627129617674592#m
 http://x.com/trondao/status/2088675697506099266#m
 http://x.com/Dashpay/status/2088680554782695880#m
+http://x.com/arbitrum/status/2088684869312233524#m
+http://x.com/arbitrum/status/2088684867353534705#m
