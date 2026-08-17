@@ -3461,3 +3461,5 @@ http://x.com/trondao/status/2089393918819303482#m
 http://x.com/Compound_xyz/status/2089386092009021630#m
 http://x.com/Compound_xyz/status/2089386090465509639#m
 http://x.com/Compound_xyz/status/2089386088783659392#m
+http://x.com/arbitrum/status/2089400437883506828#m
+http://x.com/arbitrum/status/2089400435865993724#m
