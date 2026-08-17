@@ -3416,3 +3416,5 @@ http://x.com/centrifuge/status/2089273333372334485#m
 http://x.com/cosmos/status/2089282407258325489#m
 http://x.com/TheSandboxGame/status/2089302296874119431#m
 http://x.com/Humanityprot/status/2089309445864239254#m
+http://x.com/Mantle_Official/status/2089321451698737546#m
+http://x.com/TrustWallet/status/2089323807018295363#m
