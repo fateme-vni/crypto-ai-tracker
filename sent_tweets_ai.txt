@@ -3520,3 +3520,12 @@ http://x.com/ensdomains/status/2089708512926744678#m
 http://x.com/avax/status/2089713983813034007#m
 http://x.com/avax/status/2089713981439217954#m
 http://x.com/arbitrum/status/2089714271286444142#m
+http://x.com/avax/status/2089714636333670688#m
+http://x.com/aave/status/2089724858674339911#m
+http://x.com/SkyEcosystem/status/2089720350539968919#m
+http://x.com/LlamaRisk/status/2089716305482129629#m
+http://x.com/0xPolygon/status/2089716936078958808#m
+http://x.com/BSCNews/status/2089607709926867318#m
+http://x.com/0xPolygon/status/2089716924024520724#m
+http://x.com/0xPolygon/status/2089716912251175249#m
+http://x.com/centrifuge/status/2089725084965691413#m
