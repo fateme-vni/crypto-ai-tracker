@@ -3655,3 +3655,5 @@ http://x.com/trondao/status/2090147350828265620#m
 http://x.com/BuildOnStellar/status/2090136995939111292#m
 http://x.com/TrustWallet/status/2090156338907349040#m
 http://x.com/TrustWallet/status/2090156336201806233#m
+http://x.com/Uniswap/status/2090158212506882491#m
+http://x.com/arbitrum/status/2090159696086749491#m
