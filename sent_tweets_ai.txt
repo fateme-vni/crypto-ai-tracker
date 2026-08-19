@@ -3665,3 +3665,5 @@ http://x.com/trondao/status/2090180914294763582#m
 http://x.com/inkonchain/status/2090061122061672810#m
 http://x.com/StellarOrg/status/2090200142649659610#m
 http://x.com/arbitrum/status/2090196825512763704#m
+http://x.com/StellarOrg/status/2090204629292216757#m
+http://x.com/zooko/status/2090184012081807463#m
