@@ -3600,3 +3600,5 @@ http://x.com/avax/status/2090062073975947664#m
 http://x.com/ensdomains/status/2090064850533896637#m
 http://x.com/cosmos/status/2090066517862007068#m
 http://x.com/0xPolygon/status/2090065259306590628#m
+http://x.com/zodl_co/status/2090076848503857178#m
+http://x.com/zodl_co/status/2090076846863896883#m
