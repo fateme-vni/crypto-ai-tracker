@@ -3590,3 +3590,4 @@ http://x.com/TRON_INC/status/2089907873648390349#m
 http://x.com/CurveFinance/status/2089979085741035530#m
 http://x.com/opentensor/status/2089988750919254187#m
 http://x.com/cosmos/status/2090009164160590175#m
+http://x.com/trondao/status/2090018066839289898#m
