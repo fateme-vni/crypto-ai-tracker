@@ -3630,3 +3630,9 @@ http://x.com/ethena/status/2090107101821718900#m
 http://x.com/FalconXGlobal/status/2090063449078346188#m
 http://x.com/aave/status/2090105610104676475#m
 http://x.com/Bankless/status/2090105163914875228#m
+http://x.com/AgentZero/status/2090113610018394384#m
+http://x.com/Mantle_Official/status/2090119019584188417#m
+http://x.com/Uniswap/status/2090111846934020103#m
+http://x.com/trondao/status/2090116632840478955#m
+http://x.com/avax/status/2090115179610771837#m
+http://x.com/Dashpay/status/2090115392513470565#m
