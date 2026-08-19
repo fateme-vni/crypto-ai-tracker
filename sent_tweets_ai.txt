@@ -3663,3 +3663,5 @@ http://x.com/Compound_xyz/status/2090180555073523960#m
 http://x.com/TrustWallet/status/2090180809168666634#m
 http://x.com/trondao/status/2090180914294763582#m
 http://x.com/inkonchain/status/2090061122061672810#m
+http://x.com/StellarOrg/status/2090200142649659610#m
+http://x.com/arbitrum/status/2090196825512763704#m
