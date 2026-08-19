@@ -3659,3 +3659,6 @@ http://x.com/Uniswap/status/2090158212506882491#m
 http://x.com/arbitrum/status/2090159696086749491#m
 http://x.com/Pumpfun/status/2090167418748305639#m
 http://x.com/bonk_inu/status/2090164419305038139#m
+http://x.com/Compound_xyz/status/2090180555073523960#m
+http://x.com/TrustWallet/status/2090180809168666634#m
+http://x.com/trondao/status/2090180914294763582#m
