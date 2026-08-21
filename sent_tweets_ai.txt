@@ -3775,3 +3775,11 @@ http://x.com/Dashpay/status/2090750257172742578#m
 http://x.com/TrustWallet/status/2090751213943890125#m
 http://x.com/opentensor/status/2090753190275043378#m
 http://x.com/aave/status/2090756208273584253#m
+http://x.com/avax/status/2090787803861045522#m
+http://x.com/TokenPocket_TP/status/2090758309573713932#m
+http://x.com/Humanityprot/status/2090790251556168159#m
+http://x.com/Mantle_Official/status/2090786107130855512#m
+http://x.com/SteakhouseFi/status/2090786670199378161#m
+http://x.com/Compound_xyz/status/2090786377256333391#m
+http://x.com/Compound_xyz/status/2090786375373103156#m
+http://x.com/avax/status/2090787802565017845#m
