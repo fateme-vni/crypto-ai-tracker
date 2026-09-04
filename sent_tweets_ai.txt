@@ -4671,3 +4671,5 @@ http://x.com/Zcash/status/2095937834888933546#m
 http://x.com/ZecHub/status/2095908142844649846#m
 http://x.com/rollergirlVi/status/2095816943924371920#m
 http://x.com/ensdomains/status/2095912134001807477#m
+http://x.com/arbitrum/status/2096009397252047151#m
+http://x.com/ensdomains/status/2095912145687072939#m
