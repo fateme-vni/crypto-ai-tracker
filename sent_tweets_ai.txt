@@ -4676,3 +4676,4 @@ http://x.com/ensdomains/status/2095912145687072939#m
 http://x.com/TrustWallet/status/2096161418777366889#m
 http://x.com/Dashpay/status/2096156063548444764#m
 http://x.com/AskVenice/status/2096064496037200308#m
+http://x.com/arbitrum/status/2096057152678813764#m
