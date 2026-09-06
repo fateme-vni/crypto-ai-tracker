@@ -4694,3 +4694,7 @@ http://x.com/Pumpfun/status/2096329212302963116#m
 http://x.com/TrustWallet/status/2096523809712959634#m
 http://x.com/rhea_finance/status/2096487593815003599#m
 http://x.com/Zcash/status/2096473673985376338#m
+http://x.com/mineZcash/status/2096577881144971459#m
+http://x.com/trondao/status/2096591751410548748#m
+http://x.com/TrustWallet/status/2096614398685299066#m
+http://x.com/opentensor/status/2096592851115094396#m
