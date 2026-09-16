@@ -5268,3 +5268,6 @@ http://x.com/Compound_xyz/status/2100245866338734317#m
 http://x.com/arbitrum/status/2100337775388020809#m
 http://x.com/avax/status/2100325551277736081#m
 http://x.com/avax/status/2100321025401422168#m
+http://x.com/Compound_xyz/status/2100287455455019045#m
+http://x.com/CoinMarketCap/status/2100355846244798743#m
+http://x.com/AvalancheFDN/status/2100328384295547325#m
