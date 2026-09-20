@@ -5380,3 +5380,5 @@ http://x.com/Pumpfun/status/2101366835568414868#m
 http://x.com/0xPolygon/status/2101318897475473674#m
 http://x.com/tokenterminal/status/2101364057534321091#m
 http://x.com/Uniswap/status/2101128048376459542#m
+http://x.com/Mantle_Official/status/2101726909109502032#m
+http://x.com/Pumpfun/status/2101721221456888022#m
