@@ -5519,3 +5519,6 @@ http://x.com/Uniswap/status/2107835962705523110#m
 http://x.com/aave/status/2108259288628203828#m
 http://x.com/tokenterminal/status/2108512872925893002#m
 http://x.com/CurveFinance/status/2108558659869622286#m
+http://x.com/CurveFinance/status/2108486996041879836#m
+http://x.com/Uniswap/status/2108645143804866584#m
+http://x.com/MetaMask/status/2108561038904058319#m
