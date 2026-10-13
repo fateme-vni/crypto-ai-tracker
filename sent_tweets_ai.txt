@@ -5524,3 +5524,5 @@ http://x.com/Uniswap/status/2108645143804866584#m
 http://x.com/MetaMask/status/2108561038904058319#m
 http://x.com/andyyy/status/2108774775468220424#m
 http://x.com/Uniswap/status/2108982542502096986#m
+http://x.com/aave/status/2110034823343718846#m
+http://x.com/aave/status/2110034821091414264#m
