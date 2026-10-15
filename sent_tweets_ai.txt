@@ -5527,3 +5527,5 @@ http://x.com/Uniswap/status/2108982542502096986#m
 http://x.com/aave/status/2110034823343718846#m
 http://x.com/aave/status/2110034821091414264#m
 http://x.com/Uniswap/status/2110404954150076928#m
+http://x.com/Uniswap/status/2110755711982379025#m
+http://x.com/aave/status/2110792901353439311#m
